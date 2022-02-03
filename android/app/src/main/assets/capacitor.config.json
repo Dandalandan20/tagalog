@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Tagalog Word Puzzle Game",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
